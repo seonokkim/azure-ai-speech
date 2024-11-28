@@ -1,0 +1,3 @@
+gradio
+requests
+python-dotenv  # If using .env for environment variables

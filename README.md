@@ -1,6 +1,6 @@
-# **Azure AI Speech Processing Platform**
+# **Azure AI Speech Application**
 
-Welcome to the **Azure AI Speech Processing Platform**, an interactive application designed for seamless Speech-to-Text (STT) and Text-to-Speech (TTS) functionalities using Azure Cognitive Services. This platform combines the power of Azure's APIs with an intuitive interface provided by Gradio, enabling efficient speech processing for developers and end-users.
+Azure AI Speech Application, an interactive application designed for Speech-to-Text (STT) and Text-to-Speech (TTS) functionalities using Azure Cognitive Services and Gradio. This application combines the power of Azure's APIs with an intuitive interface provided by Gradio, enabling efficient speech processing for developers and end-users.
 
 ---
 
